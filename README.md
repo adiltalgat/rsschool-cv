@@ -1,1 +1,1 @@
-https://adiltalgat.github.io/rsschool-cv/cv
+https://adiltalgat.github.io/rsschool-cv/
