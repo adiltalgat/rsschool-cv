@@ -35,3 +35,13 @@ console.log(cube);
 
 ```
 
+## University Degree and Additional Courses
+* Bachelor's degree in Mechanical Engineering
+* 9 months of C# backend development course
+
+## Languages
+* Kazakh - native
+* Russian - native
+* English - advanced
+## English Level
+* I have an IELTS certificate with a BAND SCORE - 7.0
